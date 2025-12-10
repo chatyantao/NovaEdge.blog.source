@@ -1,23 +1,23 @@
 ---
-title: ChatGPT新手注册终极指南                      # 自动使用文件名
-subtitle: NovaEdge · 创作与实验            # 可修改为你的固定副标题
-description: ""                      # SEO 描述，会出现在首页摘要
-cover: /img/default-cover.jpg        # 封面图（如不需要可删）
-date: {{date}}                       # 自动插入当前日期
-updated: {{date}}                    # Typora 保存不会变，但你可手动改
+title: ChatGPT新手注册终极指南
+subtitle: NovaEdge · 创作与实验
+description: ""                # 首页摘要 / SEO 描述，可空
+cover: /img/default-cover.jpg  # 封面图路径，不用的话可以删掉这一行
+date: 2025-12-10 10:00:00      # 记得改今天时间
+updated: 2025-12-10 10:00:00   # 一般和 date 相同，后面更新再改
 categories:
-  - 会员教程                              # 单一或多级分类
+  - 会员教程                     # 改成：教程 / 实战 / 会员教程 等
 tags:
-  -                                   # 多个标签可自行填写
-toc: true                             # 文章自动生成目录
-password: ""                          # 此字段可用于未来会员加密
-paywall: false                        # false = 免费；true = 付费可见
+  - ChatGPT                          # 按需添加：比如 AI / Sora / ChatGPT
+toc: true                      # 是否显示目录
+password: ""                   # 以后真做加密再用
+paywall: false                 # false=免费；true=付费（给会员模板用）
 ---
 
-# {{ChatGPT新手注册终极指南}}
+# ChatGPT新手注册终极指南
 
-> ✨ **NovaEdge 文章说明片段：**  
-> 本文属于 NovaEdge 实验室内容体系。  
+> ✨ **NovaEdge 文章说明：**  
+> 你好，欢迎开启你的AI探索之旅！很多人觉得注册ChatGPT过程复杂，但其实非常简单。本指南将为你分解每一个步骤，提供清晰的指引和实用技巧，确保你能顺利创建属于自己的ChatGPT账户，并立即开始体验它的强大功能。
 
 ---
 
@@ -26,10 +26,6 @@ paywall: false                        # false = 免费；true = 付费可见
 ---
 
 ## 📌 正文开始（Start）
-
-# 轻松搞定！ChatGPT新手注册终极指南
-
-你好，欢迎开启你的AI探索之旅！很多人觉得注册ChatGPT过程复杂，但其实非常简单。本指南将为你分解每一个步骤，提供清晰的指引和实用技巧，确保你能顺利创建属于自己的ChatGPT账户，并立即开始体验它的强大功能。
 
 \--------------------------------------------------------------------------------
 
@@ -112,6 +108,3 @@ paywall: false                        # false = 免费；true = 付费可见
 ### **文档结尾**
 
 恭喜你！现在你已经成功拥有了一个属于自己的ChatGPT账户。不要犹豫，马上开始探索和提问吧。无论是解答复杂的学术问题，还是进行创意的头脑风暴，这个强大的AI工具都将成为你的得力助手。现在就去体验吧！
-
----
-
