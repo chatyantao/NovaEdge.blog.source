@@ -1,12 +1,12 @@
 ---
-title: {{title}}                      # 自动使用文件名
+title: {{ChatGPT新手注册终极指南}}                      # 自动使用文件名
 subtitle: NovaEdge · 创作与实验            # 可修改为你的固定副标题
 description: ""                      # SEO 描述，会出现在首页摘要
 cover: /img/default-cover.jpg        # 封面图（如不需要可删）
 date: {{date}}                       # 自动插入当前日期
 updated: {{date}}                    # Typora 保存不会变，但你可手动改
 categories:
-  - 教程                              # 单一或多级分类
+  - 会员教程                              # 单一或多级分类
 tags:
   -                                   # 多个标签可自行填写
 toc: true                             # 文章自动生成目录
@@ -16,9 +16,8 @@ paywall: false                        # false = 免费；true = 付费可见
 
 # {{ChatGPT新手注册终极指南}}
 
-> ✨ **NovaEdge 文章说明片段（可删）：**  
+> ✨ **NovaEdge 文章说明片段：**  
 > 本文属于 NovaEdge 实验室内容体系。  
-> 若未来开启会员系统，可在 paywall: true 时启用收费查看。
 
 ---
 
