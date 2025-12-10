@@ -1,5 +1,5 @@
 ---
-title: {{ChatGPT新手注册终极指南}}                      # 自动使用文件名
+title: ChatGPT新手注册终极指南                      # 自动使用文件名
 subtitle: NovaEdge · 创作与实验            # 可修改为你的固定副标题
 description: ""                      # SEO 描述，会出现在首页摘要
 cover: /img/default-cover.jpg        # 封面图（如不需要可删）
